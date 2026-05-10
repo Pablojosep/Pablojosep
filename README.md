@@ -13,6 +13,10 @@ Based in Porto, Portugal · Member of the Ordem dos Engenheiros de Portugal
 ![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-6E4C9F?style=flat)
 ![ESP-IDF](https://img.shields.io/badge/ESP--IDF-E7352C?style=flat&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=flat&logo=freertos&logoColor=white)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr_RTOS-6E4C9F?style=flat)
+![Nordic nRF54](https://img.shields.io/badge/Nordic_nRF54-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white)
+![nRF Connect SDK](https://img.shields.io/badge/nRF_Connect_SDK-00A9CE?style=flat&logo=nordicsemiconductor&logoColor=white)
 ### Platforms
 | MCU / SBC | Toolchain |
 |---|---|
