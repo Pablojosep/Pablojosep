@@ -1,6 +1,6 @@
 ## Pablo Peñuela · Embedded Systems Engineer
 Full-cycle embedded product developer — I take a device from idea to finished unit.
-**Schematic → PCB → Firmware → Enclosure → Product**
+**Schematic → PCB → Firmware → Enclosure → Product**.
 Based in Porto, Portugal · Member of the Ordem dos Engenheiros de Portugal
 ---
 ### Hardware
